@@ -1,1 +1,0 @@
-{"ast":null,"code":"const handler = async (req, res) => {};\n\nexport default handler;","map":null,"metadata":{},"sourceType":"module"}
